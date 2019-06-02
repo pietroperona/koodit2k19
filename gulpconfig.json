@@ -1,6 +1,6 @@
 {
   "browserSyncOptions" : {
-    "proxy": "koodit2019:8888",
+    "proxy": "http//koodit2019:8888",
     "notify": false
   },
   "browserSyncWatchFiles" : [
